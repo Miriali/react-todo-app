@@ -9,6 +9,7 @@ In this repository you can find the code of a todo app developed using Reactjs, 
 Basic knowledge of:
 
 :star2: Reactjs
+
 :star2: Css  
 :star2: Javascript and  
 :star2: Responsive web design
