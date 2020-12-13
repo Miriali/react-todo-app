@@ -5,11 +5,16 @@ Hello cute github community! :octocat:
 In this repository you can find the code of a todo app developed using Reactjs, I´m still working on it but I will surely upload the final version soon.
 
 ### Requirements
+
 Basic knowledge of:
+
 :star2: Reactjs
 :star2: Css  
 :star2: Javascript and  
 :star2: Responsive web design
+
+### Screenshot
+![](https://instagram.fccs3-1.fna.fbcdn.net/v/t51.2885-15/fr/e15/s1080x1080/130852768_3594769800604356_2301198359978240444_n.jpg?_nc_ht=instagram.fccs3-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=tpAm9oq9vd8AX82HMgQ&tp=1&oh=550228b86658d7fc03487e0cb38c847a&oe=5FFDD011&ig_cache_key=MjQ2MzE1NTg2MDEwNTc2MzQyMg%3D%3D.2)
 
 ### Getting Started with Create React App
 
@@ -57,9 +62,6 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Screenshot
-![](https://instagram.fccs3-1.fna.fbcdn.net/v/t51.2885-15/fr/e15/s1080x1080/130852768_3594769800604356_2301198359978240444_n.jpg?_nc_ht=instagram.fccs3-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=tpAm9oq9vd8AX82HMgQ&tp=1&oh=550228b86658d7fc03487e0cb38c847a&oe=5FFDD011&ig_cache_key=MjQ2MzE1NTg2MDEwNTc2MzQyMg%3D%3D.2)
 
 ### Built With
 - [Sublime Text](https://www.sublimetext.com/)
