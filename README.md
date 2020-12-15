@@ -14,11 +14,7 @@ Basic knowledge of:
 :star2: Responsive web design
 
 ### Screenshot
-<<<<<<< HEAD
 ![](https://scontent.fccs3-1.fna.fbcdn.net/v/t1.15752-9/131412522_3635700139832046_8449832141402431502_n.jpg?_nc_cat=111&ccb=2&_nc_sid=ae9488&_nc_ohc=2FTPXKwQGTsAX9OLpeX&_nc_ht=scontent.fccs3-1.fna&oh=6ad511e0259f61c5021c60f59be5454e&oe=5FFD6665)
-=======
-![](https://instagram.fccs3-1.fna.fbcdn.net/v/t51.2885-15/fr/e15/s1080x1080/130852768_3594769800604356_2301198359978240444_n.jpg?_nc_ht=instagram.fccs3-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=tpAm9oq9vd8AX82HMgQ&tp=1&oh=550228b86658d7fc03487e0cb38c847a&oe=5FFDD011&ig_cache_key=MjQ2MzE1NTg2MDEwNTc2MzQyMg%3D%3D.2)
->>>>>>> d91d053d14777dd7400e3af64dfd50710aef0684
 
 ### Getting Started with Create React App
 
