@@ -7,8 +7,9 @@
   }
   
   body {
-    background: #58B19F;
+    background: #f8a5c2;
   }
+
   .todo-app {
     display: flex;
     flex-direction: column;
